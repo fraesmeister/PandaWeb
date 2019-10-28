@@ -1,8 +1,21 @@
+#main {
+       margin-left: auto;
+       margin-right: auto;
+       margin-right: auto;
+       width: 800px;
+       border-style: solid;
+       border-width: 10px;
+       border-color: pink;
+       background-color: white;
+}
 img {
     max-width:400px;
     height:auto;
 }
-P { text-align: center }
+P { text-align: center;
+    background-color: green;
+
+    }
 P { margin-left: auto;
        margin-right: auto;
        margin-right: auto;
@@ -11,8 +24,7 @@ P { margin-left: auto;
 H1 {
 text-align: center;
  font-size: 70px;
- background-color: lightgreen;
- color: dargreen;
+ background-color: purple;
 }
 H2 {    background-color: lightgreen;
         margin-right: auto;
@@ -22,7 +34,10 @@ H2 {    background-color: lightgreen;
         color: darkgreen;
  }
 
-
+body {
+background-color: lightyellow;
+width 40;
+}
 table {
     background-color: #f8f9fa;
     color: #222;
