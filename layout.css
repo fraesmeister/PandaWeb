@@ -8,3 +8,67 @@ P {margin-left: auto;
        margin-right: auto;
        width: 50em}
 H1 { text-align: center }
+
+table {
+    background-color: #f8f9fa;
+    color: #222;
+    margin: 1em 0;
+    border: 1px solid #a2a9b1;
+    border-collapse: collapse;
+    font-size: 100%;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    background-color:rgb(248, 249, 250);
+    border-bottom-color:rgb(162, 169, 177);
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+    border-collapse:collapse;
+    border-image-outset:0px;
+    border-image-repeat:stretch;
+    border-image-slice:100%;
+    border-image-source:none;
+    border-image-width:1;
+    border-left-color:rgb(162, 169, 177);
+    border-left-style:solid;
+    border-left-width:1px;
+    border-right-color:rgb(162, 169, 177);
+    border-right-style:solid;
+    border-right-width:1px;
+    border-top-color:rgb(162, 169, 177);
+    border-top-style:solid;
+    border-top-width:1px;
+    color:rgb(34, 34, 34);
+    direction:ltr;
+    display:table;
+    font-family:sans-serif;
+    font-size:14px;
+    height:274.4px;
+    line-height:22.4px;
+    margin-bottom:14px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:14px;
+    width:444.8px;
+    -webkit-border-horizontal-spacing:1.6px;
+    -webkit-border-vertical-spacing:1.6px;
+}
+tr {
+border-bottom-color:rgb(162, 169, 177);
+border-collapse:collapse;
+border-left-color:rgb(162, 169, 177);
+border-right-color:rgb(162, 169, 177);
+border-top-color:rgb(162, 169, 177);
+color:rgb(34, 34, 34);
+direction:ltr;
+display:table-row;
+font-family:sans-serif;
+font-size:14px;
+height:28px;
+line-height:22.4px;
+vertical-align:middle;
+width:444.8px;
+-webkit-border-horizontal-spacing:1.6px;
+-webkit-border-vertical-spacing:1.6px;
+}
