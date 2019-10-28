@@ -3,7 +3,7 @@ margin-left: auto;
        margin-right: auto;
        margin-right: auto;
        width: 40em
-width: 600px;
+width: 500px;
 border: dotted 15px gray;
 margin 40px auto;
 }
@@ -17,11 +17,16 @@ P { border: outset 15px #b7b7b7;
     margin-left: auto;
        margin-right: auto;
        margin-right: auto;
-       width: 50em}
+       width: 40em}
 
 H1 { text-align: center }
 
 table {
+text-align: center;
+    margin-left: auto;
+       margin-right: auto;
+       margin-right: auto;
+       width: 40em
     background-color: #f8f9fa;
     color: #222;
     margin: 1em 0;
