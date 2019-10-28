@@ -17,14 +17,9 @@ P { border: outset 15px #b7b7b7;
     margin-left: auto;
        margin-right: auto;
        margin-right: auto;
-       width: 40em}
-<<<<<<< HEAD
-
-H1 { text-align: center }
-=======
+       width: 50em}
 H1 { text-align: center;
  font-size: 70px}
->>>>>>> baf1754... Added wikipedia links
 
 table {
 text-align: center;
