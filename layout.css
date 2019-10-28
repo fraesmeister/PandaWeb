@@ -3,13 +3,22 @@ img {
     height:auto;
 }
 P { text-align: center }
-P {margin-left: auto;
+P { margin-left: auto;
        margin-right: auto;
        margin-right: auto;
-       width: 40em}
-H1 { text-align: center;
- font-size: 70px}
-
+       width: 40em;
+       }
+H1 { 
+text-align: center;
+ font-size: 70px;
+}
+H2 {        margin-right: auto;
+            margin-right: auto;
+            width: 40em;
+            margin-left: auto;
+text-align: center;
+            width: 40em;
+            }
 table {
     background-color: #f8f9fa;
     color: #222;
