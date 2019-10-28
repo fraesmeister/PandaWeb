@@ -19,6 +19,9 @@ H2 {        margin-right: auto;
 text-align: center;
             width: 40em;
             }
+body {
+background-color: yellow;
+}
 table {
     background-color: #f8f9fa;
     color: #222;
